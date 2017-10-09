@@ -1,0 +1,3 @@
+\\anglia.local\fs\StudentsHome\rs1197\My Documents\Development\OOP\GitHub\Week03\Task1\obj\Debug\netcoreapp1.1\OOP.csproj.CoreCompileInputs.cache
+\\anglia.local\fs\StudentsHome\rs1197\My Documents\Development\OOP\GitHub\Week03\Task1\obj\Debug\netcoreapp1.1\OOP.AssemblyInfoInputs.cache
+\\anglia.local\fs\StudentsHome\rs1197\My Documents\Development\OOP\GitHub\Week03\Task1\obj\Debug\netcoreapp1.1\OOP.AssemblyInfo.cs
